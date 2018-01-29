@@ -2,5 +2,6 @@
 echo "github";
 echo "developers";
 echo  "python";
-echo "chenges need in dev branch";
+echo "changes need in dev branch";
+echo "changes has been made."
 ?>
